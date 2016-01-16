@@ -1,0 +1,28 @@
+name: neal
+favicon: null
+layout_spectrum: 0.055414387956261635
+typography_spectrum: 0.5096848926041275
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.2897778288461268
+  lightness: 0.007070970023050904
+  saturation: 0.17624486377462745
+  rhythmicContrast: 0.4174783108755946
+purpose: []
